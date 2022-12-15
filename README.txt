@@ -1,9 +1,7 @@
                                                                                 Introduction
                                                                                 
                                                                                 
-This project consist of developing a recommendation system from the data provided by IBM Watson Studio platform. The scope of this project is to 
-analyze the interactions that users have with articles on the IBM Watson Studio platform, and make recommendations
-to the users about new articles that they might like.
+This project consist of developing a recommendation system from the data provided by IBM Watson Studio platform. The scope of this project is to analyze the interactions that users have with articles on the IBM Watson Studio platform, and make recommendations to the users about new articles that they might like.
 
 
 Project motivation
