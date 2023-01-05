@@ -35,7 +35,7 @@ This recommendation system utilzed the ranking assigned to different articles by
 
 2. Content Based Recommendation System
 
-This recommendation system made used of the document description and document full name fields for understanding the patterns in the document contents. This recommenation system was able to identify and recommend some of the articles that the new users will find useful if the user have already read articles that the falling within algorithims prediction bounaries. 
+This recommendation system made used of the document description and document full name fields for understanding the patterns in the document contents. This recommenation system was able to identify and recommend some of the articles that the new users will find useful if the user have already read articles that the falling within algorithims prediction boundaries. 
 
 
 Outcome
